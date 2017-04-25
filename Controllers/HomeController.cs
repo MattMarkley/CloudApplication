@@ -22,7 +22,7 @@ namespace CloudApplication.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Matt Markley.";
 
             return View();
         }
